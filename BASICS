@@ -18,7 +18,7 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **What It's Like:** Imagine a giant, shared computer space on the internet. It's like using apps, storing files, or doing tasks on the internet that anyone can access.
 
-**Example:** Think of Google Drive or Amazon Web Services (AWS).
+**Example:** Think of Google Drive or Amazon Web Services(AWS).
 
 ## Private Cloud:
 
@@ -36,7 +36,7 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **Example:** A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
 
-### In a Nutshell:
+## In a Nutshell:
 
 **Public Cloud:** Shared digital space for everyone.
 
